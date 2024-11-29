@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "H784YAaMjiI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nateb\\source\\repos\\2D_Game_Solo_Nate\\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1\\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nateb\\.nuget\\packages\\raylib-cs\\6.1.1\\raylib-cs.6.1.1.nupkg.sha512",
+    "C:\\Users\\nateb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

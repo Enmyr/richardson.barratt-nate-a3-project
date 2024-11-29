@@ -1,0 +1,23 @@
+C:\Users\nateb\source\repos\2D_Game_Solo_Nate\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1\bin\Debug\net8.0\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1.exe
+C:\Users\nateb\source\repos\2D_Game_Solo_Nate\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1\bin\Debug\net8.0\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1.deps.json
+C:\Users\nateb\source\repos\2D_Game_Solo_Nate\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1\bin\Debug\net8.0\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1.runtimeconfig.json
+C:\Users\nateb\source\repos\2D_Game_Solo_Nate\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1\bin\Debug\net8.0\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1.dll
+C:\Users\nateb\source\repos\2D_Game_Solo_Nate\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1\bin\Debug\net8.0\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1.pdb
+C:\Users\nateb\source\repos\2D_Game_Solo_Nate\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1\bin\Debug\net8.0\Raylib-cs.dll
+C:\Users\nateb\source\repos\2D_Game_Solo_Nate\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1\bin\Debug\net8.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\nateb\source\repos\2D_Game_Solo_Nate\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1\bin\Debug\net8.0\runtimes\osx-arm64\native\libraylib.dylib
+C:\Users\nateb\source\repos\2D_Game_Solo_Nate\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1\bin\Debug\net8.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\nateb\source\repos\2D_Game_Solo_Nate\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1\bin\Debug\net8.0\runtimes\win-x64\native\raylib.dll
+C:\Users\nateb\source\repos\2D_Game_Solo_Nate\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1\bin\Debug\net8.0\runtimes\win-x86\native\raylib.dll
+C:\Users\nateb\source\repos\2D_Game_Solo_Nate\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1\obj\Debug\net8.0\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1.csproj.AssemblyReference.cache
+C:\Users\nateb\source\repos\2D_Game_Solo_Nate\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1\obj\Debug\net8.0\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nateb\source\repos\2D_Game_Solo_Nate\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1\obj\Debug\net8.0\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1.AssemblyInfoInputs.cache
+C:\Users\nateb\source\repos\2D_Game_Solo_Nate\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1\obj\Debug\net8.0\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1.AssemblyInfo.cs
+C:\Users\nateb\source\repos\2D_Game_Solo_Nate\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1\obj\Debug\net8.0\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1.csproj.CoreCompileInputs.cache
+C:\Users\nateb\source\repos\2D_Game_Solo_Nate\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1\obj\Debug\net8.0\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1.sourcelink.json
+C:\Users\nateb\source\repos\2D_Game_Solo_Nate\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1\obj\Debug\net8.0\GAME 100.ADBAC326.Up2Date
+C:\Users\nateb\source\repos\2D_Game_Solo_Nate\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1\obj\Debug\net8.0\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1.dll
+C:\Users\nateb\source\repos\2D_Game_Solo_Nate\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1\obj\Debug\net8.0\refint\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1.dll
+C:\Users\nateb\source\repos\2D_Game_Solo_Nate\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1\obj\Debug\net8.0\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1.pdb
+C:\Users\nateb\source\repos\2D_Game_Solo_Nate\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1\obj\Debug\net8.0\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1.genruntimeconfig.cache
+C:\Users\nateb\source\repos\2D_Game_Solo_Nate\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1\obj\Debug\net8.0\ref\GAME 10003 Game Development Foundations - 2D Game Template (v1.2)1.dll
